@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Job-application{
+  width: 100%;
+  height: 26vh;
+  background-color: rgb(184, 88, 184);
+  margin-left: 0px;
+}
+.Text-overflow{
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  color: white;
+  /* margin-left: 70px;  */
+}
+.job{  
+    border: none;
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+    font-size: 38px;
+    padding-bottom: 12px;
+    display: inline-block;
+  }
+  .Group{
+    color: white;
+    /* padding-right: 1000px; */
+    border: none;
+    margin-bottom: 0px;
+    font-weight: 600;
+    top: 0px;
+  }
+  .Platinum{
+    border: none;
+    color: white;
+    font-weight: 600;
+    /* padding-right: 1000px;  */
+  }
+  .image{
+    width: 11%;
+    /* display: inline-block; */
+    border-radius: 750px;
+    position: absolute;
+    top: 8px;
+    left: 810px; 
+    
+    
+  }
+  .numbers{
+    background-color: rgb(148, 11, 148);
+    width: 100%;
+    /* border: none; */
+    /* border-style: solid; */
+    height: 40px;
+    color: white;
+  }
+  .Job-numbers{
+    display: flex;
+    /* grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 160px; */
+    flex-direction: column 1 1 1;
+    column-gap:  60px;
+    margin-left: 350px;
+    padding-top: 10px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .call{
+    padding-right: 10px;
+    margin-left: 10px;
+  }
+  .mail{
+    padding-right: 10px;
+  }
+  .info{
+    font-weight: bold;
+    margin-left: 364px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  .name{
+    margin: 20px 20px 0px 364px;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(70, 68, 68);
+  }
+    .first-name{
+    margin: 0px 0px 20px 364px;
+    font-weight: 500;
+    border-radius: 20px;
+    height: 5vh;
+    width: 280px;
+    font-size: 16px;
+    padding-left: 10px;
+    color: rgb(70, 68, 68);
+  }
+   .lastname{
+    margin-left: 277px;
+    color: rgb(70, 68, 68);
+ }  
+    .EMAIL{
+    margin-left: 75px;
+    height: 5vh;
+    width: 280px;
+    border-radius: 200px;
+    font-size: 16px;
+    padding-left: 10px;
+ }
+  .gender{
+    margin-left: 364px;
+    font-weight: 600;
+    color: rgb(70, 68, 68);
+  }
+  .male-female{
+  font-weight: 600;
+  width: 100px;
+  display: inline;
+  margin-left: 0px;
+  color: rgb(70, 68, 68);
+  }
+   .male{
+    margin: 35px 10px 35px 364px;
+    font-weight: 600;
+    font-size: 16px;
+ }
+ .Female{
+    margin: 35px 10px 35px 127px;
+    font-weight: 600;
+    font-size: 16px;
+ }
+  .rain{
+    margin: 0px 0px 0px 364px;
+    font-weight: 500;
+    border-radius: 20px;
+    height: 5vh;
+    width: 280px;
+    font-size: 16px;
+    padding-left: 10px;
+  }
+  /* .Name{
+    font-weight: 500;
+    border-radius: 20px;
+    height: 35px;
+    width: 250px;
+    font-weight: bold;
+  } */
+ div{
+  margin-left: 320px;
+ }
+ .okay{
+  margin-left: 172px;
+  height: 35px;
+  width: 250px;
+  border-radius: 200px;
+  line-clamp: 100px;
+ }
+ .phone{
+  margin-left: 303px;
+ }
+ .PHONE{
+  margin-left: 80px;
+  height: 5vh;
+  width: 280px;
+  border-radius: 200px;
+  font-size: 16px;
+  padding-left: 10px
+ }
+ .email{
+  margin-left: 263px;
+  font-weight: 600;
+ }
+ .street{
+  margin-left: 273px;
+  font-weight: 600;
+  color: rgb(70, 68, 68);
+ }
+ .zip{
+  margin-left: 309px;
+  font-weight: 600;
+  color: rgb(70, 68, 68);
+ }
+ .city{
+    margin: 20px 20px 0px 364px;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(70, 68, 68);
+    
+ }
+ .education{
+  margin: 20px 20px 0px 364px;
+  font-weight: bold;
+  font-size: 16px;
+  font-size: 17px;
+ }
+ .experience{
+  margin-left: 243px;
+  font-weight: bold;
+  font-size: 17px;
+ }
+ .radio{
+  margin-left: 370px;
+  font-weight: bold;
+  width: 40%;
+  margin-top: 20px;
+  margin-bottom: 35px;
+ }
+ .span{
+  font-weight: 600;
+  font-size: 16px;
+  color: rgb(70, 68, 68);
+  padding-left: 7px;
+ }
+
+/* .dart{
+  position: relative;
+  top: -100px;
+}  */
+
